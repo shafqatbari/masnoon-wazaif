@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "643636298582",
+    "project_id": "easy-store-1096c",
+    "storage_bucket": "easy-store-1096c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643636298582:android:0c9fe8d8c060fae8f84cf7",
+        "android_client_info": {
+          "package_name": "com.masnoonwazaif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643636298582-5eoroi57fiimbci6ss2153u24328o3qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.masnoonwazaif",
+            "certificate_hash": "94b71fb89aec30fb8843254a6bee7fe6967be53a"
+          }
+        },
+        {
+          "client_id": "643636298582-r0hko79nsuj6ts7bepcsjkava58qrgkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvPOQW2N6ffJ5RC2-1uOwz28pDAQ74YfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643636298582-r0hko79nsuj6ts7bepcsjkava58qrgkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
